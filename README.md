@@ -54,8 +54,8 @@ mediassist-ai/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Shraddha3838/MediAssist-AI.git
-cd MediAssist-AI
+git clone https://github.com/Shraddha3838/git.git
+cd git
 ```
 
 ### 2. Create a virtual environment
